@@ -1,0 +1,11 @@
+*.idea*
+*.DS_Store*
+*postgres-data*
+__pycache__
+.pytest_cache
+csvs
+notebook.ipynb
+n_cars_per_year
+downloads
+results
+.env
